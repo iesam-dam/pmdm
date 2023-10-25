@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="pmdm" name="PDMD"
+                  start-page="Home.md">
+
+    <toc-element topic="Home.md"/>
+    <toc-element topic="Contenido.md">
+        <toc-element topic="RecyclerView.md"/>
+    </toc-element>
+    <toc-element topic="Evaluación.md" toc-title="Evaluacion"/>
+</instance-profile>
